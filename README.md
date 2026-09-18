@@ -1,15 +1,22 @@
 <div align="center">
 
-# Andrés Felipe Galeano Téllez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,27&height=130&section=header&text=Andr%C3%A9s%20Felipe%20Galeano%20T%C3%A9llez&fontSize=32&fontAlignY=34&animation=fadeIn" alt="banner" />
 
-**Ingeniero de Sistemas · Ciencia de Datos · Inteligencia Artificial**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&height=50&lines=Ingeniero+de+Sistemas;Ciencia+de+Datos+e+IA+Generativa" alt="typing" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andres--galeano--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-galeano-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-AndresF--GaleanoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresF-GaleanoT)
 
-`Bogotá · Colombia` · `Top 2% TryHackMe`
+`Bogotá · Colombia` &nbsp;•&nbsp; `Top 2% TryHackMe`
 
 > *"Convierto datos en decisiones y código en soluciones."*
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndresF-GaleanoT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresF-GaleanoT&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs" />
+
+<img src="https://streak-stats.demolab.com?user=AndresF-GaleanoT&theme=radical&hide_border=true" alt="streak" />
 
 <br/>
 
