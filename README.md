@@ -13,8 +13,8 @@
 
 > *"Convierto datos en decisiones y código en soluciones."*
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndresF-GaleanoT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresF-GaleanoT&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs" />
+<img src="https://github-stats-extended.vercel.app/api?username=AndresF-GaleanoT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndresF-GaleanoT&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs" />
 
 <img src="https://streak-stats.demolab.com?user=AndresF-GaleanoT&theme=radical&hide_border=true" alt="streak" />
 
