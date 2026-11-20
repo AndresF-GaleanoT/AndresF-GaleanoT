@@ -1,37 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,27&height=130&section=header&text=Andr%C3%A9s%20Felipe%20Galeano%20T%C3%A9llez&fontSize=32&fontAlignY=34&animation=fadeIn" alt="banner" />
+<img src="assets/hero.svg" width="100%" alt="Andrés Felipe Galeano Téllez: Ingeniero de Sistemas, Ciencia de Datos, IA Generativa y Ciberseguridad" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&height=50&lines=Ingeniero+de+Sistemas;Ciencia+de+Datos+e+IA+Generativa" alt="typing" />
+<br/><br/>
 
-<br/>
+<a href="https://andres-f-galeano-t-github-io-theta.vercel.app"><img src="https://img.shields.io/badge/Portafolio-visitar-161b22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" /></a>
+<a href="https://linkedin.com/in/andres-galeano-dev"><img src="https://img.shields.io/badge/LinkedIn-andres--galeano--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andres--galeano--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-galeano-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-AndresF--GaleanoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresF-GaleanoT)
-
-`Bogotá · Colombia` &nbsp;•&nbsp; `Top 2% TryHackMe`
-
-> *"Convierto datos en decisiones y código en soluciones."*
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresF-GaleanoT/AndresF-GaleanoT/master/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndresF-GaleanoT/AndresF-GaleanoT/master/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AndresF-GaleanoT/AndresF-GaleanoT/master/dist/github-contribution-grid-snake.svg" />
-</picture>
+<p><sub><i>Convierto datos en decisiones y código en soluciones.</i></sub></p>
 
 </div>
+
+<br/>
+
+<img src="assets/notebook.svg" width="100%" alt="Sobre mí como la salida de pandas .info(): Lenguajes (Python, SQL, R, Java), Análisis y BI (Pandas, NumPy, Power BI), Ingeniería de datos (AWS, Glue, Step Functions, Iceberg), Machine Learning (scikit-learn, YOLO, ByteTrack), IA Generativa (CrewAI, NVIDIA NIM, agentes LLM), Ciberseguridad (Linux, OSINT, Fuzzing, TryHackMe) y DevOps (Docker, Kubernetes, Terraform, Git)" />
+
+<h3>Proyectos destacados</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<sub>INGENIERÍA DE DATOS</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/secop-lakehouse-aws">secop-lakehouse-aws</a></b><br/>
+<sub>Lakehouse en AWS para la contratación pública de Colombia (SECOP II), con arquitectura Medallion y datamart en estrella.</sub><br/>
+<code>Glue</code> <code>Step Functions</code> <code>Iceberg</code> <code>Terraform</code>
+</td>
+<td width="33%" valign="top">
+<sub>VISIÓN POR COMPUTADOR</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/gondola-inteligente">gondola-inteligente</a></b><br/>
+<sub>Detección y tracking de personas en retail, análisis de interacción con góndolas y recomendaciones de space management.</sub><br/>
+<code>Python</code> <code>YOLO</code> <code>ByteTrack</code>
+</td>
+<td width="33%" valign="top">
+<sub>IA GENERATIVA</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/pricepulse-ai">pricepulse-ai</a></b><br/>
+<sub>Análisis automatizado de precios en e-commerce con agentes de IA generativa.</sub><br/>
+<code>CrewAI</code> <code>NVIDIA NIM</code> <code>n8n</code> <code>Docker</code>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<sub>CIBERSEGURIDAD</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/osint-automation-platform">osint-automation-platform</a></b><br/>
+<sub>Recolección, limpieza, análisis y enriquecimiento de datos públicos con flujos automatizados.</sub><br/>
+<code>Python</code> <code>OSINT</code>
+</td>
+<td width="33%" valign="top">
+<sub>BACKEND Y DEVOPS</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/flask-k8s">flask-k8s</a></b><br/>
+<sub>API REST en Flask desplegada en Kubernetes con PostgreSQL.</sub><br/>
+<code>Flask</code> <code>Docker</code> <code>Helm</code> <code>Kubernetes</code>
+</td>
+<td width="33%" valign="top">
+<sub>COMUNIDAD</sub><br/>
+<b><a href="https://github.com/AndresF-GaleanoT/roadmap-ingeniero-ia-spanish">roadmap-ingeniero-ia-spanish</a></b><br/>
+<sub>Roadmap con cursos gratuitos en español para ser Ingeniero de IA: 17 temas, 8 roles y más de 100 recursos.</sub><br/>
+<code>IA</code> <code>Educación</code>
+</td>
+</tr>
+</table>
+
+<h3>Mi GitHub, como dataset</h3>
+
+<img src="assets/stats.svg" width="100%" alt="Mis contribuciones de los últimos 12 meses analizadas: total, rachas, día más activo, mapa de calor y lenguajes" />
+
+<div align="right"><sub>Se regenera cada día con <a href="scripts/generar.py"><code>scripts/generar.py</code></a> y GitHub Actions.</sub></div>
