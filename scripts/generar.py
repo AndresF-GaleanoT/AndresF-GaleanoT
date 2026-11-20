@@ -589,7 +589,8 @@ def stats(dias, leng) -> str:
         "".join(f".w{k}{{animation-delay:{0.3 + k * 0.018:.3f}s}}" for k in range(ncols)),
     ])
     titulo = (f"Actividad de {USUARIO} en GitHub: {fnum(total)} contribuciones en 12 meses, "
-              f"racha actual de {actual} días, racha más larga de {mejor} días")
+              f"racha actual de {actual} {'día' if actual == 1 else 'días'}, "
+              f"racha más larga de {mejor} {'día' if mejor == 1 else 'días'}")
     return svg(W, round(H), titulo, "", "\n".join(c), estilo)
 
 
