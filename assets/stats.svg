@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="422" viewBox="0 0 960 422" role="img" aria-labelledby="titulo" xml:space="preserve">
-<title id="titulo">Actividad de AndresF-GaleanoT en GitHub: 238 contribuciones en 12 meses, racha actual de 1 día, racha más larga de 4 días</title>
+<title id="titulo">Actividad de AndresF-GaleanoT en GitHub: 238 contribuciones en 12 meses, racha actual de 0 días, racha más larga de 4 días</title>
 <style>
 .m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',Menlo,monospace;white-space:pre}
 .s{font-family:'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
@@ -21,9 +21,9 @@
 <rect x=".5" y=".5" width="959" height="421" rx="16" fill="#0d1117" stroke="#30363d"/>
 <g clip-path="url(#card)">
 <text x="40.0" y="34.0" font-size="12" fill="#ff4d8d" class="m" textLength="7.2" lengthAdjust="spacing">❯</text><text x="54.4" y="34.0" font-size="12" fill="#e6edf3" class="m" textLength="43.2" lengthAdjust="spacing">python</text><text x="104.8" y="34.0" font-size="12" fill="#7d8590" class="m" textLength="302.4" lengthAdjust="spacing">scripts/generar.py --user AndresF-GaleanoT</text>
-<text x="776.0" y="34.0" font-size="12" fill="#7d8590" class="m" textLength="144.0" lengthAdjust="spacing">datos al 20 nov 2026</text>
+<text x="776.0" y="34.0" font-size="12" fill="#7d8590" class="m" textLength="144.0" lengthAdjust="spacing">datos al 21 nov 2026</text>
 <g class="up" style="animation-delay:0.1s"><rect x="40.0" y="54" width="208.0" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="56.0" y="78.0" font-size="11" fill="#7d8590" class="m" textLength="92.4" lengthAdjust="spacing">CONTRIBUCIONES</text><text x="56.0" y="112" class="s" font-size="30" font-weight="800" fill="url(#brand)">238</text><text x="56.0" y="129.0" font-size="11" fill="#7d8590" class="m" textLength="105.6" lengthAdjust="spacing">últimos 12 meses</text></g>
-<g class="up" style="animation-delay:0.2s"><rect x="264.0" y="54" width="208.0" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="280.0" y="78.0" font-size="11" fill="#7d8590" class="m" textLength="79.2" lengthAdjust="spacing">RACHA ACTUAL</text><text x="280.0" y="112" class="s" font-size="30" font-weight="800" fill="url(#brand)">1</text><text x="280.0" y="129.0" font-size="11" fill="#7d8590" class="m" textLength="72.6" lengthAdjust="spacing">día seguido</text></g>
+<g class="up" style="animation-delay:0.2s"><rect x="264.0" y="54" width="208.0" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="280.0" y="78.0" font-size="11" fill="#7d8590" class="m" textLength="79.2" lengthAdjust="spacing">DÍAS ACTIVOS</text><text x="280.0" y="112" class="s" font-size="30" font-weight="800" fill="url(#brand)">50</text><text x="280.0" y="129.0" font-size="11" fill="#7d8590" class="m" textLength="72.6" lengthAdjust="spacing">13% del año</text></g>
 <g class="up" style="animation-delay:0.3s"><rect x="488.0" y="54" width="208.0" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="504.0" y="78.0" font-size="11" fill="#7d8590" class="m" textLength="99.0" lengthAdjust="spacing">RACHA MÁS LARGA</text><text x="504.0" y="112" class="s" font-size="30" font-weight="800" fill="url(#brand)">4</text><text x="504.0" y="129.0" font-size="11" fill="#7d8590" class="m" textLength="99.0" lengthAdjust="spacing">10 may → 13 may</text></g>
 <g class="up" style="animation-delay:0.4s"><rect x="712.0" y="54" width="208.0" height="84" rx="12" fill="#161b22" stroke="#30363d"/><text x="728.0" y="78.0" font-size="11" fill="#7d8590" class="m" textLength="92.4" lengthAdjust="spacing">DÍA MÁS ACTIVO</text><text x="728.0" y="112" class="s" font-size="30" font-weight="800" fill="url(#brand)">jueves</text><text x="728.0" y="129.0" font-size="11" fill="#7d8590" class="m" textLength="112.2" lengthAdjust="spacing">62 contribuciones</text></g>
 <text x="40.0" y="166.0" font-size="11" fill="#7d8590" class="m" textLength="132.0" lengthAdjust="spacing">calendario.heatmap()</text>
@@ -414,6 +414,7 @@
 <rect class="d w52" x="792.0" y="234.0" width="11.0" height="11.0" rx="2.5" fill="#1b222c"/>
 <rect class="d w52" x="792.0" y="248.0" width="11.0" height="11.0" rx="2.5" fill="#0f3d3e"/>
 <rect class="d w52" x="792.0" y="262.0" width="11.0" height="11.0" rx="2.5" fill="#1b222c"/>
+<rect class="d w52" x="792.0" y="276.0" width="11.0" height="11.0" rx="2.5" fill="#1b222c"/>
 <text x="64.0" y="312.0" font-size="9" fill="#7d8590" class="m" textLength="27.0" lengthAdjust="spacing">menos</text>
 <rect x="98" y="304.0" width="10" height="10" rx="2" fill="#1b222c"/>
 <rect x="111" y="304.0" width="10" height="10" rx="2" fill="#0f3d3e"/>
